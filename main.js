@@ -8,5 +8,5 @@ if (cardOne === cardFour) {
 } else if (cardTwo === cardThree)
 	alert("You found a match!")
 	else {
-		alert("Sorry, try again."); 
+		alert("Sorry, try again."):
 	}
