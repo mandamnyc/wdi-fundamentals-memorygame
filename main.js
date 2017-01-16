@@ -10,3 +10,4 @@ if (cardOne === cardFour) {
 	else {
 		alert("Sorry, try again."); 
 	}
+
